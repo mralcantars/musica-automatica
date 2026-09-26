@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Arquivos Python
+__pycache__/
+*.pyc
+
+# Áudio baixado pelo programa
+audio/*.mp3
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.log
