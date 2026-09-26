@@ -1,6 +1,6 @@
 from interface import titulo
 from musica import escolher_musica
-from musica_automatica.src.audio import baixar_audio
+from audio import baixar_audio
 from letra import tocar_letra
 
 
