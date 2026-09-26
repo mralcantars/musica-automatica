@@ -1,3 +1,4 @@
+"Inspirado no projeto do @caionalarica"
 Projeto em Python que busca uma música, encontra sua letra sincronizada e reproduz o áudio enquanto exibe a letra no terminal.
 
 Funcionalidades
